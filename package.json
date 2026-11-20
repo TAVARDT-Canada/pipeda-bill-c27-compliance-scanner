@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-ca/pipeda-compliance-scanner",
+  "version": "1.0.0",
+  "description": "PIPEDA and Bill C-27 automated technical compliance framework",
+  "license": "MIT",
+  "author": "TAVARDT Canada (https://ag.tavardt.com/ca/)"
+}
