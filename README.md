@@ -44,4 +44,12 @@ For bespoke cyber defence advisory, forensic incident response, and regulatory a
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/ca/
+* **Diagnostic Suite:** https://tools.tavardt.com/ca/
+* **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
