@@ -6,7 +6,7 @@
 
 Automated technical audit toolkit and verification scripts for the Personal Information Protection and Electronic Documents Act (PIPEDA) and the Consumer Privacy Protection Act (Bill C-27 / CPPA) in Canada.
 
-Maintained by the enterprise cybersecurity and data governance team at **TAVARDT Canada**.
+Maintained by the enterprise cybersecurity and data governance team at **TAVARDT**.
 
 ***
 
@@ -40,7 +40,7 @@ Audit your digital perimeter using free diagnostic engines provided by TAVARDT:
 * [DMARC & Anti-Spoofing Verifier](https://tools.tavardt.com/ca/dmarc-checker/)
 * Complete Canadian Diagnostic Suite
 
-For bespoke cyber defence advisory, forensic incident response, and regulatory alignment in Canada, contact **TAVARDT Canada**.
+For bespoke cyber defence advisory, forensic incident response, and regulatory alignment in Canada, contact **TAVARDT**.
 
 ***
 
