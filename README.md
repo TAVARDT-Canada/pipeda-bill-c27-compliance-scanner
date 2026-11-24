@@ -1,4 +1,4 @@
-# PIPEDA & Bill C-27 (CPPA) Compliance Scanner | TAVARDT Canada
+# PIPEDA & Bill C-27 (CPPA) Compliance Scanner
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/ca/)
@@ -41,3 +41,7 @@ Audit your digital perimeter using free diagnostic engines provided by TAVARDT:
 * Complete Canadian Diagnostic Suite
 
 For bespoke cyber defence advisory, forensic incident response, and regulatory alignment in Canada, contact **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
