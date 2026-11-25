@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/ca/)
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Compliance Framework](https://img.shields.io/badge/Canada-PIPEDA%20%26%20Bill%20C-27-00C853.svg)](https://ag.tavardt.com/ca/cybersecurity/)
 
 Automated technical audit toolkit and verification scripts for the Personal Information Protection and Electronic Documents Act (PIPEDA) and the Consumer Privacy Protection Act (Bill C-27 / CPPA) in Canada.
