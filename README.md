@@ -1,7 +1,7 @@
 # PIPEDA & Bill C-27 (CPPA) Compliance Scanner
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Verification Suite](https://img.shields.io/badge/TAVARDT-Diagnostic%20Suite-5b3cf5.svg)](https://tools.tavardt.com/ca/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Automated technical audit toolkit and verification scripts for the Personal Information Protection and Electronic Documents Act (PIPEDA) and the Consumer Privacy Protection Act (Bill C-27 / CPPA) in Canada.
 
@@ -37,7 +37,6 @@ Audit your digital perimeter using free diagnostic engines provided by TAVARDT:
 * [Exposed Secrets & Files Scanner](https://tools.tavardt.com/ca/exposed-files-scanner/)
 * [HTTP Security Headers Auditor](https://tools.tavardt.com/ca/security-headers-check/)
 * [DMARC & Anti-Spoofing Verifier](https://tools.tavardt.com/ca/dmarc-checker/)
-* Complete Canadian Diagnostic Suite
 
 For bespoke cyber defence advisory, forensic incident response, and regulatory alignment in Canada, contact **TAVARDT**.
 
